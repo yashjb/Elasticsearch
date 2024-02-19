@@ -1,7 +1,7 @@
 from elasticsearch import Elasticsearch
 from pprint import pprint
 
-ELASTIC_PASSWORD = "6fX0s0E23oIeF4BGkYY9"
+ELASTIC_PASSWORD = "elastic"
 ELASTIC_USERNAME = "elastic"
 ELASTIC_PATH = "http://localhost:9200"
 INDEX_NAME = "nba_players"
